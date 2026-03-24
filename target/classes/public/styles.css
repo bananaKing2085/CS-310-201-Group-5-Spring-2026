@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif; padding: 40px; background: #f0f8ff;
+}
+title {
+    font-size: larger;
+}
+h1 {
+    font-size: large;
+}
+p {
+    font-size: normal;
+}
+input {
+     padding: 10px; margin: 10px; width: 250px;
+}
+
+button {
+     padding: 12px 30px; background: #4CAF50; color: white; border: none;
+}
+.message {
+     margin-top: 30px; font-size: 1.3em;
+}
